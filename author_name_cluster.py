@@ -4,16 +4,11 @@ import numpy as np
 from collections import defaultdict
 import  matplotlib.pyplot as plt
 
-from fuzzywuzzy import fuzz, process
-
-
 author = defaultdict(int)
 mention = defaultdict(int)
 
 author_term = defaultdict(int)
 mention_term = defaultdict(int)
-
-allwords = defaultdict(int)
 
 raw = open("../git/Texts/TCP.csv", 'r')
 reader = csv.reader(raw, delimiter=",", quotechar='"')
@@ -61,8 +56,7 @@ for d in data:
             name = dt[1] + " " + dt[0]
         else:
             name = _remove_punctuation(_search_string(d[5]))
-        print(name.strip())
-        print(fuzz.distance("Martin Luther", name.strip()))
+
         #author[_remove_punctuation(_search_string(d[5]))] += 1
         #author_term[d[0]] = _count_terms(d[7])
     #if "Luther" in d[7] and "Luther" not in d[5]: # brute force approach
