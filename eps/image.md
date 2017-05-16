@@ -25,6 +25,11 @@ for k,v in mention.iteritems():
 ###Visualising the Data
 
 Now we use the Python's matplotlib library  to create a figure.
+```
+import  matplotlib.pyplot as plt
+```
+
+````
 #now to plot the publications against date
 plt.figure(figsize=(16,8))
 plt.plot(dates, aut_date, 'r.', dates, men_date, 'b.')
@@ -33,3 +38,4 @@ plt.xlabel('Year')
 plt.title('Publications by Martin Luther or mentioning him')
 plt.axvline(x=1546)
 plt.show()
+````
