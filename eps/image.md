@@ -22,7 +22,7 @@ for k,v in mention.iteritems():
     men_date.add(k)
 ```
 
-###Visualising the Data
+### Visualising the Data
 
 Now we use the Python's matplotlib library  to create a figure.
 ```
