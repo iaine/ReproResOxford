@@ -18,13 +18,6 @@ First, we are going to clone a repository. This means that we download and set u
 
 This fetches the Texts repository from the *textcreationpartnership* project and creates it on our machine in its own directory. 
 
-## Setting up a repository
-
-First we need to create a repository and then add its location to your git
-```
-   git init
-   git remote add origin https://github.com/<yourgithubname>/Luther.git
-```
 
 ## Add
 
