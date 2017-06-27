@@ -8,12 +8,22 @@ Git
 *  Learn a little about creating, pushing, and pulling
 
 
+## Fork a repository
+
+First we will copy a repository online. 
+
+Sign into your Github account. 
+
+Go to http://github.com/iaine/ReproResOxford
+
+Click on the 'fork' button. This copies my repository into your own space when you click the button. 
+
 ## Clone an existing repository
 
 First, we are going to clone a repository. This means that we download and set up a link with an existing repository. It also means that we can pull all the changes made in it to our local machine. 
 
 ```
-   git clone https://github.com/textcreationpartnership/Texts.git
+   git clone https://github.com/iaine/ReproResOxford.git
 ```
 
 This fetches the Texts repository from the *textcreationpartnership* project and creates it on our machine in its own directory. 
