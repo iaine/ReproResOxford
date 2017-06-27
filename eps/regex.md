@@ -7,36 +7,34 @@ Searching for Data
 *  Use the cloned data and search for some data
 
 
-In this episode, we want to use the data [cloned](git.md) from Git and then search for some data in it. 
+In this episode, we want to use the data [cloned](git.md) taken from Git and then search for some data in it. An important part of reproducible research is showing your methodology and storing it.  
 
-We are going to use a language called Python
+We are going to use a language called Python. 
 
-Create a new directory and create a script in called *search.py*. (You can use notepad to create the file)
+Go into the repository that you've cloned and create a script in called *search.py*. (You can use notepad to create the file). 
 
+We are going to import a library called pandas. This provides all the functions from that library for our script
+.
 ```
-import csv
-import numpy as np
+import pandas as pd
 
-raw = open("../git/Texts/TCP.csv", 'r')
-reader = csv.reader(raw, delimiter=",", quotechar='"')
-authors = []
-mentions = []
-x = list(reader)
-data = np.array(x).astype('string')
+g=pd.read_csv("data/TCP.csv")
+f=g.loc[g['Author'].str.contains("Luther",na=False)]
+freq = f['Date'].value_counts()
 ```
 
-In this section, we read in the data from the [cloned repository](git.md), read it into a variable to re-use.
+In this section, we read in the data from the [cloned repository](git.md) and store it in a variable to make it accessible for the script. 
 
-The data is then turned into a list as np.array() expects a list and tell the new array that the list contains a string. 
+In the next line, we find all lines containing the word, "Luther". We cannot guarantee how Martin Luther is 
+represented within the data but we want to view all the relevant data. 
+
+Although the data has authors and dates, what we want to show is a publication history of the number of volumes over time. In the final line, we create a version of the data that has the number of times a date appears in a variable.  
+
 
 ```
-for d in data:
-    # test for Luther being in the author column
-    if "Luther" in d[5]:
-        authors.add(d[5])
-    # Luther may be mentioned but it not an author
-    else if "Luther" in d[7] and "Luther" not in d[5]:
-        mentions.add(d[7])
+n = pd.DataFrame({'Publication':freq.index, 'Freq':freq.values})
 ```
 
-Now we have code, we add it to [version control](git.md). 
+In the inal line, the convert the freq variable into a form that the image library understands and also removes the duplicate Date column that the frequency creates. 
+
+Now we have code, we add it to [version control](git.md) and can create our image. 
