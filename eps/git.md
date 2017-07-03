@@ -66,7 +66,11 @@ It is good practice to use git pull before you push new code into the repository
 It allows your local version to come up to date with any other changes before you send your changes to the main branch. You may find that you have a merge issue, it can be fixed early on. 
 
 ## Push
+
 Now we can move our code from our local machine to the online version. 
+
 ```
     git push origin master
 ```
+
+Using git push origin, we tell the local git to push the committed changes to the online repository. 
