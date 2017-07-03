@@ -11,6 +11,12 @@ Git
 
 Code and data change. Version control tracks how code and changes. 
 
+Imagine that you are working on a paper with multiple collaborators, each of whom has a suggestion. One way os to use track changes in Word or version history in Google Docs.
+
+Once changes are accepted, it is hard to follow the history and to understand the flow. 
+
+Version Control starts from the initial document and stores the versions in a discoverable manner.  
+
 ## Fork a repository
 
 First we will copy a repository online. 
@@ -33,7 +39,7 @@ This fetches the repository with data from the *textcreationpartnership* project
 
 ## Add
 
-Now that you have an existing git directory and have given it a remote location to push into, we can now add some ffiles. This tells git that you want to add a file to version control and what you want to add. 
+Now that you have an existing git directory and have given it a remote location to push into, we can now add some files. This tells git that you want to add a file to version control and what you want to add. 
 
 ```
 git add search.py
