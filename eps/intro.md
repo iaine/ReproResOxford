@@ -1,13 +1,11 @@
 ### Reproducible Research in the Humanities
 
-In this lecture, we are going to find a catalogue. 
+In this talk, we will discuss types of reproducibility. 
 
-We will then write a script to find some data and visualise it. 
+The outcomes for the session will be:
+* Context for Reproducibility
+* Some techniques
+* A challenge for you all…
 
-The overall aim to is to show and discuss some ways of creating reproducible research as part of humanities. 
-
-*  Methodology
-
-*  Results
 
 [Reproducibility](/eps/reproducible.md)
