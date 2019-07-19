@@ -1,4 +1,4 @@
 # What is reproducibility?
 
 
-[Types][eps/types.md]
+[Types](types.md)
