@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Reproducible Research in the Humanities
 ---
 
 ### Reproducible Research in the Humanities
