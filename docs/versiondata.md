@@ -6,4 +6,4 @@
 
 ### Ask your institution or library!
 
-[FAIR](eps/fair.md)
+[FAIR](/fair.md)

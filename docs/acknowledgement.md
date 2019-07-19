@@ -4,4 +4,4 @@ David De Roure, Oxford e-Research Centre
 
 Software Sustainability Institute
 
-[References](eps/reference.md)
+[References](/reference.md)

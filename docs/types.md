@@ -4,4 +4,4 @@
 * Results
 * Inference
 
-[Practical](eps/practical.md)
+[Practical](/practical.md)

@@ -11,4 +11,4 @@ Recommended citations may need extra detail
 If the software has a DOI, use it. 
 (Jackson, 2016)
 
-[Final Questions](eps/final.md)
+[Final Questions](/final.md)

@@ -8,4 +8,4 @@ The outcomes for the session will be:
 * A challenge for you all…
 
 
-[Reproducibility](/eps/you.md)
+[Reproducibility](//you.md)

@@ -5,4 +5,4 @@ A
 I
 R
 
-[Tell Me](eps/tell.md)
+[Tell Me](/tell.md)

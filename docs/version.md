@@ -7,4 +7,4 @@
 
 ### Ask your institution if one is provided
 
-[Versioning Data](eps/versiondata.md)
+[Versioning Data](/versiondata.md)

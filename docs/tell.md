@@ -8,4 +8,4 @@
 * Jupyter
 * Binder
 
-[Irreproducible](eps/irreproducible.md)
+[Irreproducible](/irreproducible.md)

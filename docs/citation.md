@@ -10,4 +10,4 @@ Provide a Digital Object Identifier for your code and data.
 If a paper uses your software, or part if it, without credit, contact the editor
 	Usher, 2017
 
-[Software Sources](eps/sources.md)
+[Software Sources](/sources.md)
