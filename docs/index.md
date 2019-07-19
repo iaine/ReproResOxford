@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ### Reproducible Research in the Humanities
 
 In this talk, we will discuss types of reproducibility. 
