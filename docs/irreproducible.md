@@ -12,4 +12,4 @@ Make sure that you cannot reproduce your own work
 
 (Hong, N.P.C., et al, 2015)
 
-[License](license)
+[License](license.md)
