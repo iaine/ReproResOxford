@@ -1,4 +1,4 @@
-# Versioning Data
+# Software and Data
 
 ## Figshare
 
@@ -6,6 +6,14 @@
 ## Zenodo
 
 ![Zenodo](/figs/zenodo.png)
+
+## Dryad
+
+![Dryad](/figs/dryad.png)
+
+## Journal of Open Source Software
+
+![JOSS](/figs/joss.png)
 
 ### Ask your institution if one is provided
 
