@@ -1,15 +1,15 @@
 # Version Control
 
-* Subversion
+## Subversion
 
 ![Subversion](/figs/Subversion.png)
-* BitBucket
+## BitBucket
 
 ![BitBucket](/figs/Bitbucket.png)
-* Github
+## Github
 
 ![Github](/figs/GitHub.png)
-* Gitlab
+## Gitlab
 
 ![Gitlab](/figs/gitlab.png)
 
