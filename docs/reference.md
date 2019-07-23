@@ -16,4 +16,10 @@ Morin Andrew, Urban Jennifer, Sliz Piotr , A Quick Guide to Software Licensing f
 
 Piccolo, Stephen R., and Michael B. Frampton. “Tools and Techniques for Computational Reproducibility.” GigaScience 5, no. 1 (December 1, 2016): 1–13. doi://10.1186s13742-016-0135-4.
 
+Rule, A., Birmingham, A., Zuniga, C., Altintas, I., Huang, S.C., Knight, R., Moshiri, N., Nguyen, M.H., Rosenthal, S.B., Pérez, F. and Rose, P.W., 2018. Ten simple rules for reproducible research in Jupyter notebooks. arXiv preprint arXiv:1810.08055.
+
 Usher, Will, How Not to Cite Software (and how to be cited), https://www.software.ac.uk/blog/2017-03-30-how-not-cite-software-and-how-be-cited
+
+Wilson, G., Aruliah, D.A., Brown, C.T., Hong, N.P.C., Davis, M., Guy, R.T., Haddock, S.H., Huff, K.D., Mitchell, I.M., Plumbley, M.D. and Waugh, B., 2014. Best practices for scientific computing. PLoS biology, 12(1), p.e1001745.
+
+Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L. and Teal, T.K., 2017. Good enough practices in scientific computing. PLoS computational biology, 13(6), p.e1005510.
