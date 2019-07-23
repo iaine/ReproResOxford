@@ -1,4 +1,4 @@
 
 # Collaborate with your future self
 
-[Reproducibility](/reproducible.md)
+[Open Science](openscience.md)
