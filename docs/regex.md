@@ -18,7 +18,7 @@ We are going to import a library called pandas. This provides all the functions 
 ```
 import pandas as pd
 
-g=pd.read_csv("data/TCP.csv")
+g=pd.read_csv("dataTCP.csv")
 f=g.loc[g['Author'].str.contains("Luther",na=False)]
 freq = f['Date'].value_counts()
 ```

@@ -8,4 +8,4 @@
 * Jupyter
 * Binder
 
-[Irreproducible](/irreproducible.md)
+[Licensing](licensing.md)
