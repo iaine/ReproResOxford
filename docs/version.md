@@ -1,4 +1,4 @@
-# Version Control
+# Software
 
 ## Subversion
 
@@ -12,6 +12,11 @@
 ## Gitlab
 
 ![Gitlab](/figs/gitlab.png)
+
+## Journal of Open Source Software
+
+![JOSS](/figs/joss.png)
+
 
 ### Ask your institution if one is provided
 
