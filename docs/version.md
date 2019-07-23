@@ -8,7 +8,7 @@
 ![BitBucket](/figs/Bitbucket.png)
 * Github
 
-![Github](/figs/GitHub.png)  ![Octocat](/figs/Octocat.png)
+![Github](/figs/GitHub.png)
 * Gitlab
 
 ![Gitlab](/figs/gitlab.png)
