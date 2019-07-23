@@ -1,7 +1,7 @@
 # Version Control
 
 * Subversion
-![Subversion](../figs/Subversion.png)
+![Subversion](/figs/Subversion.png)
 * BitBucket
 * Github
 * Gitlab
