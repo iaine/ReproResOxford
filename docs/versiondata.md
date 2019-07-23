@@ -1,4 +1,4 @@
-# Software and Data
+# Data
 
 ## Figshare
 
@@ -10,10 +10,6 @@
 ## Dryad
 
 ![Dryad](/figs/dryad.png)
-
-## Journal of Open Source Software
-
-![JOSS](/figs/joss.png)
 
 ### Ask your institution if one is provided
 
