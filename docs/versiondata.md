@@ -1,9 +1,12 @@
 # Versioning Data
 
-* Institutional Repositories
 * Figshare
+
+![Figshare](/figs/figshare.png)
 * Zenodo
+
+![Zenodo](/figs/zenodo.png)
 
 ### Ask your institution or library!
 
-[FAIR](/fair.md)
+[FAIR](fair.md)
