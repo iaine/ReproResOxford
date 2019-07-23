@@ -1,7 +1,7 @@
 # Types of Reproducibility
 
-* Methodological
+* Method
 * Results
 * Inference
 
-[Practical](/practical.md)
+[Practical](practical.md)
