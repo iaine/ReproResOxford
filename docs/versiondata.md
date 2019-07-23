@@ -1,12 +1,12 @@
 # Versioning Data
 
-* Figshare
+## Figshare
 
 ![Figshare](/figs/figshare.jpg)
-* Zenodo
+## Zenodo
 
 ![Zenodo](/figs/zenodo.png)
 
-### Ask your institution or library!
+### Ask your institution if one is provided
 
 [FAIR](fair.md)
