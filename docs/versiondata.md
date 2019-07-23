@@ -2,7 +2,7 @@
 
 * Figshare
 
-![Figshare](/figs/figshare.png)
+![Figshare](/figs/figshare.jpg)
 * Zenodo
 
 ![Zenodo](/figs/zenodo.png)
