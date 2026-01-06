@@ -7,4 +7,4 @@ python-dateutil >=2.1
 PyYAML >=3.10
 six >=1.5.2
 tornado >=4.3
-bokeh == 1.2.0
+bokeh == 3.8.2
